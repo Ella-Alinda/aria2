@@ -532,8 +532,6 @@ documentation to know how to use API.
 
 Lucky_He came here to die.
 
-加了一条。
-
 References
 ----------
 
